@@ -4,10 +4,12 @@
 
 After some years of doing .net development (since .NET v2), I started to revisit my pre-conceptions on how should a .net project should be structured.
 
-## Method
-
 In an effort to provide clarity verbosily, while at the same time provide a clean folder structure; I scaffolded
-a typical `My.Site` application abnd permutated on how files/folders would look like
+a typical `My.Site` application and permutated on how files/folders would look like.
+
+## Methodology
+
+TODO
 
 ## Resources
 
