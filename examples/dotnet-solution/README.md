@@ -1,6 +1,6 @@
 ## Remarks
 
-* All projects (`.Tests` and otherwise) are created under a `dotnet/` folder.
+- All projects (`.Tests` and otherwise) are created under a `dotnet/` folder.
 
 ## Folder Structure
 
@@ -51,8 +51,8 @@
 
 ### Pros
 
-* Like any other technology, things are grouped "by technology" (i.e. `dotnet/`)
-* Groups `.Tests` projects & otherwise in a flattened fashion.
+- Like any other technology, things are grouped "by technology" (i.e. `dotnet/`)
+- Groups `.Tests` projects & otherwise in a flattened fashion.
 
 ### Cons
 

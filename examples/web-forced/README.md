@@ -1,7 +1,7 @@
 ## Remarks
 
-* 1 (and only 1) `.csproject` under `src/`
-* 1 (and only 1) `.csproject` under `tests/`
+- 1 (and only 1) `.csproject` under `src/`
+- 1 (and only 1) `.csproject` under `tests/`
 
 ## Folder Structure
 
@@ -46,13 +46,13 @@
 
 ### Pros
 
-* `src/` & `tests/` are more familiar form developers that come from a Web App background
-* Having 1 `src` forces focus on the project, incentivizing multi-repo (1-repo-per-project), in allignment with "12 Factors".
+- `src/` & `tests/` are more familiar form developers that come from a Web App background
+- Having 1 `src` forces focus on the project, incentivizing multi-repo (1-repo-per-project), in allignment with "12 Factors".
 
 ### Cons
 
-* A folder like `terraform/` shows between `src/` & `tests/`
-* Cannot cleanly add another `.csproject` (even for migrations).
-* Cannot separate Testing by Unit|Integration|Acceptance, forcing to either
-  * Run all of them.
-  * Maintain Test PlayLists.
+- A folder like `terraform/` shows between `src/` & `tests/`
+- Cannot cleanly add another `.csproject` (even for migrations).
+- Cannot separate Testing by Unit|Integration|Acceptance, forcing to either
+  - Run all of them.
+  - Maintain Test PlayLists.
