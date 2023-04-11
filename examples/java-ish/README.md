@@ -1,3 +1,5 @@
+## Folder Structure
+
 ```
 │   .gitignore
 │   My.Site.sln

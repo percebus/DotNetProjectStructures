@@ -4,6 +4,10 @@
 
 ## Folder Structure
 
+- `./dotnet/`
+  - `{NameSpace}.{ProjectName}/`
+    - `{NameSpace}.{ProjectName}.csproject`
+
 ```
 │   .gitignore
 │   My.Site.sln
