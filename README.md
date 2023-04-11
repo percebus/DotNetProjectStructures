@@ -13,9 +13,9 @@ TODO
 
 ## Resources
 
-* [Structure and Organize .NET Projects with Rider](https://blog.jetbrains.com/dotnet/2022/05/11/structure-and-organize-net-projects-with-rider/)
+- [Structure and Organize .NET Projects with Rider](https://blog.jetbrains.com/dotnet/2022/05/11/structure-and-organize-net-projects-with-rider/)
 
 ### MS Learn
 
-* [Organizing and testing projects with the .NET CLI](https://learn.microsoft.com/en-us/dotnet/core/tutorials/testing-with-cli)
-* [Tutorial: Containerize a .NET app](https://learn.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=windows)
+- [Organizing and testing projects with the .NET CLI](https://learn.microsoft.com/en-us/dotnet/core/tutorials/testing-with-cli)
+- [Tutorial: Containerize a .NET app](https://learn.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=windows)
